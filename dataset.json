@@ -1,0 +1,30 @@
+{
+  "content": "...",
+  "metadata": {
+    "topic": "Prompt Engineering Patterns for Production AI Systems",
+    "field": "AI/ML",
+    "audience": "engineers",
+    "format": "research_paper",
+    "title": "Prompt Engineering Patterns for Production AI Systems",
+    "abstract": "This research paper presents a comprehensive analysis of prompt engineering patterns that can be utilized to optimize the performance of production AI systems. It provides actionable insights and practical implementation strategies for engineers, detailing key findings and real-world examples to enhance their understanding of this cutting-edge field.",
+    "key_findings": [
+      "Section 1: Introduction & Problem Statement",
+      "Section 2: Key Findings / Main Content",
+      "Section 3: Practical Implementation / How-to steps"
+    ],
+    "suggested_price_usd": 27,
+    "target_platforms": [
+      "gumroad",
+      "kdp",
+      "github"
+    ],
+    "tags": [
+      "AI/ML",
+      "Production AI Systems",
+      "Prompt Engineering",
+      "Engineering Solutions"
+    ],
+    "directory": "/home/kali/omni-money-agent/data/publications/Prompt_Engineering_Patterns_for_Producti_20260316_0522",
+    "created_at": "2026-03-16T05:22:49.890179"
+  }
+}
